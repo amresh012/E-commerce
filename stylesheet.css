@@ -1,0 +1,213 @@
+* {
+  box-sizing: border-box;  
+}
+div
+{
+	transition: all 1s;
+}
+
+header container
+{
+	padding-left:500px;
+}
+.container
+{
+	/*position: absolute;*/
+	width:100%;
+}
+
+.btn
+{
+	margin : 13px 10px;
+	display: inline-block;
+	color:white;	
+	float:left;
+}
+.fb
+{
+	margin-left: 200px;
+}
+.lgg
+{
+	font-family: "Helvetica";
+}
+.header-mid
+{	
+	display: inline-block;
+	position: relative;	
+	margin-top: -5px;
+	margin-left: 300px;
+	color : white;	
+}
+.header-right
+{	
+	font-family: "Helvetica";
+	transition: none;
+	display: inline-block;	
+	float: right;
+    margin-right: -25px;
+	
+}
+
+
+.login
+{
+	border: 1px solid #45453f;
+	display : inline-block;
+	background-color: #45453f;
+	padding:8px 10px; 	
+ 	text-decoration : none;
+ 	font-size:18px;
+ 	/*font-weight:bold;*/
+ 	color:white;
+ 	/*position: relative;*/
+ 	float:right;
+ 	margin-right:250px;
+}
+.login:hover
+{
+	background-color: #70706b;
+}
+p
+{		
+	font-family: "Helvetica";
+	font-weight: bold;
+	color : white;		
+}
+header
+{
+	background-color: #363632;
+	height: 40px;
+	width:99%;	
+	position: absolute;	
+  	top: 0;  	
+  	/*z-index:1=;*/
+}
+.top-wrapper
+{
+	/*float:left;*/
+}
+.logo
+{	
+	/*display: inline-block;*/
+	margin-top:50px;
+	margin-left:260px;
+	height: 100px;
+	width: 200px;
+}
+.search
+{	
+	transition: none;
+	position: absolute;
+	margin-top:-70px;
+	margin-left:560px;
+}
+.sbar
+{
+	/*display: inline-block;*/
+	width:400px;
+	height: 35px;	
+}
+.fa-search
+{
+	/*position: relative;*/
+	border : 1px solid ##55aa66;
+	border-radius: 4px;
+	padding-top: 8px;
+	padding-bottom:12px;
+	padding-right: 10px;
+	padding-left: 10px;
+	/*margin-right: -50px;*/
+	color:white;
+	background-color: #55aa66;
+}
+.fa-search:hover
+{
+	border :1.5px solid #55cc66;
+	background-color: #55cc66;	
+	cursor: pointer;
+}
+.track
+{
+	transition: none;
+	margin-top:-70px;
+	margin-left:1100px;
+}
+.track:hover
+{	
+	cursor: pointer;	
+}
+.cart
+{
+	transition: none;
+	margin-top:-45px;
+	margin-left:1250px;
+	margin-right: 1px;
+	padding-right: 1px;
+}
+.cart:hover
+{	
+	cursor: pointer;	
+}
+.menu-elements 
+{
+	font-family: "Helvetica";
+	margin-right: 200px;
+}
+.btn1
+{
+	border : 1px solid #eeeeee;
+	padding:7px 7px;
+	margin : 6px 10px;
+	float:right;
+	font-style: "Helvetica";
+	text-decoration :none;
+	color:#363632;
+}
+.btn1:hover
+{
+	color:#55aa66;	
+}
+.menu 
+{
+	transition: none;
+	height:50px;	
+	margin-top:25px;
+	background-color: #eeeeee; 			
+	font-weight: bold;
+}
+.fa-fire
+{
+	color:orange;	
+}
+.fa-fire:hover
+{
+	color:yellow;
+}
+h2
+{
+	font-family: "Helvetica";
+}
+.main2 h2
+{
+	/*margin-top:700px;*/
+	
+}
+.hurry
+{
+	font-weight: lighter;	
+	text-align: center;	
+	color:#383834;
+	letter-spacing: 2px;
+	line-height: 5px;	
+	font-size:20px;
+}
+.flash
+{
+	text-align: center;
+	color:orange;
+}
+.fa-bolt
+{
+	color:orange
+}
